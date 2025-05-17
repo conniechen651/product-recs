@@ -1,3 +1,4 @@
 surprise
 bs4
 selenium
+numpy<=1.23.5
